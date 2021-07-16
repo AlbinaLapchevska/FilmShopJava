@@ -1,0 +1,21 @@
+
+----------------------------------------------
+Co program musi zrobić?
+0 Zakończyć działanie programu
+
+******Dane******
+1 Wyswietlić wszystkie filmy
+2 Wyswietlić wszystkich pracownikow
+3 Wyswietlić wszystkich klientow
+4 Wyswietlić wszystkie zamowienia
+
+******KUPIC FILMY******
+5 Złozyć zamowienie
+
+******Statystyka******
+6 Wyswietliź własną fakturę
+7 Ile filmów było sprzedano
+8 Zobaczyć cenę jednego zamowienia
+9 Zobaczyć cenę wszystkich zamowień
+10 Zobaczyć na jaką cenę sprzedano filmów każdego żanru
+-----------------------------------------------
